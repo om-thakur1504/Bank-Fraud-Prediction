@@ -1,0 +1,25 @@
+# secrets
+.env
+
+# data
+data/
+*.csv
+
+# trained models
+models/
+*.pkl
+*.joblib
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
