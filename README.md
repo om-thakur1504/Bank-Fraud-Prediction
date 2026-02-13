@@ -1,6 +1,3 @@
-Here’s the **entire `README.md` content as a single Markdown file**, exactly how it should exist in your repository (no extra wrappers).
-Just paste this directly into `README.md`.
-
 ---
 
 # Bank Fraud Prediction
